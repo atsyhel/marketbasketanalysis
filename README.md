@@ -14,4 +14,7 @@ The goal was to identify frequent itemsets and discover patterns in customer pur
 - Data loading and preprocessing
 - Transformation of transactional data
 - Frequent pattern mining with FP-Growth
-- Interpretation of frequent itemsets
+- Interpretation of frequent itemsets and association rules
+  
+### 🔗 Live preview
+https://atsyhel.github.io/marketbasketanalysis/
